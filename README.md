@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MySQL and Django**
 
-- 📫 How to reach me **chengyengoh@hotmail.com**
+- 📫 How to reach me **e0136987@u.nus.edu**
 
 - ⚡ Fun fact **I can ski backwards**
 
