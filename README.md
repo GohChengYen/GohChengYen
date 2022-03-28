@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cheng Yen</h1>
 <h3 align="center">I have always been interested in problem solving and now I'm on my journey to learn coding!</h3>
 
-- 🌱 I’m currently learning **MySQL and Django**
+- 🌱 I’m currently learning **MySQL and Express**
 
 - 📫 How to reach me **e0136987@u.nus.edu**
 
